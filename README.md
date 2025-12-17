@@ -40,5 +40,5 @@ Where $A_i$ is the matrix formed by replacing the $i$-th column of $A$ with the 
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/oivas000/Cramers_Rule_GUI.git](https://github.com/oivas000/Cramers_Rule_GUI.git)
+git clone https://github.com/oivas000/Cramers_Rule_GUI.git
 cd Cramers_Rule_GUI
